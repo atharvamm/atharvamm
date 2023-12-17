@@ -40,8 +40,8 @@ For a comprehensive view of my projects, please visit my [github repositories](h
 
 
 ## Connect with Me
-- [LinkedIn]()
-- [Website]()
+- [LinkedIn](https://www.linkedin.com/in/atharva-mhaskar/)
+- [Website](https://atharvamm.github.io/portfolio/)
 
 ## Let's Explore the Data Together!
 
